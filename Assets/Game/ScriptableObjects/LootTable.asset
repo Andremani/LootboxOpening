@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 01c09f4faac225e4d9f70a07448f25a6, type: 3}
+  m_Name: LootTable
+  m_EditorClassIdentifier: 
+  items:
+  - <Item>k__BackingField: {fileID: 11400000, guid: 4194f1bff416d6c42b5001da4a4981e8, type: 2}
+    <Amount>k__BackingField: 1
+    <DropChanceWeight>k__BackingField: 16
+  - <Item>k__BackingField: {fileID: 11400000, guid: d251f081c59c0bb4ca61d178d5f13a66, type: 2}
+    <Amount>k__BackingField: 1
+    <DropChanceWeight>k__BackingField: 12
+  - <Item>k__BackingField: {fileID: 11400000, guid: c179d0ec71add8140aba0ed8adb8327f, type: 2}
+    <Amount>k__BackingField: 1
+    <DropChanceWeight>k__BackingField: 10
+  - <Item>k__BackingField: {fileID: 11400000, guid: 1039ee4c8fa207d41ae644dd0dac272a, type: 2}
+    <Amount>k__BackingField: 1
+    <DropChanceWeight>k__BackingField: 8
+  - <Item>k__BackingField: {fileID: 11400000, guid: f27037a892a94204796411964f67c07f, type: 2}
+    <Amount>k__BackingField: 1
+    <DropChanceWeight>k__BackingField: 4
+  - <Item>k__BackingField: {fileID: 11400000, guid: d0e246f93d6d0c345954875bbcdcf4e0, type: 2}
+    <Amount>k__BackingField: 1
+    <DropChanceWeight>k__BackingField: 1
+  - <Item>k__BackingField: {fileID: 11400000, guid: 280efd37ef472e944ad17ebb27bf359f, type: 2}
+    <Amount>k__BackingField: 1
+    <DropChanceWeight>k__BackingField: 1
+  - <Item>k__BackingField: {fileID: 11400000, guid: 2a1ec032f22334f45af26e556fe29da7, type: 2}
+    <Amount>k__BackingField: 1
+    <DropChanceWeight>k__BackingField: 1
